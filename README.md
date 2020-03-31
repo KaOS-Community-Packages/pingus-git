@@ -10,4 +10,4 @@ kcp -di sdl2_image && kcp -di sdl2_mixer
 
 ### Installation
 
-kcp -i pingus
+kcp -i pingus-git
